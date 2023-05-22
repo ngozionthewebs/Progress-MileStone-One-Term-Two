@@ -1,0 +1,157 @@
+nav{
+    width: 100%;
+    height: 150px;
+    background-color: #57634D;
+    border-radius: 30px;
+}
+
+.nav-back{
+    width: 100%;
+    height: 40px;
+    background-color: #57634D;
+}
+
+.logo{
+    inline-size: 200px;
+    margin-left: 40px;
+    margin-top: -70px;
+   
+}
+
+nav ul{
+    list-style: none;
+}
+
+.nav-con{
+    margin-left: 690px;
+    margin-top: -69px;
+    
+}
+
+
+nav li{
+    float: left;
+    padding-left: 90px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+
+}
+
+nav li:hover{
+    cursor: pointer;
+    color:orange ;
+}
+
+.active{
+    color: white;
+    font-weight: bold;
+ }
+
+ .background{
+    height: 6090px;
+    background-color: #DFD188;
+    margin-top: -10px;
+ }
+
+.sandwich-image{
+    width: 520px;
+    height: 780px;
+    background-image: url(../assets/new-sand.png);
+    background-position: center;
+    background-size: cover;
+    margin-left: 130px;
+}
+
+
+
+.logo-block{
+    width: 350px;
+    height: 350px;
+    margin-left: 660px;
+    margin-top: -780px;
+
+}
+
+.welcome-text{
+    width: 571px;
+    height: 333px;
+    margin-left: 740px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    line-height: 40px;
+    margin-top: -30px;
+    }
+
+    .btn-1{
+        width: 219px;
+        height: 64px;
+        background-color: transparent;
+        border: 2px dashed #FFFFFF;
+        border-radius: 20px;
+        text-align: center;
+        margin-left: 730px;
+        margin-top: -58px;
+    }
+
+    .btn-1 p{
+        width: 212px;
+        height: 29px;
+        margin-top: 10px;
+        font-size: 24px;
+        color: #FFFFFF;
+        font-weight: 700;
+    }
+
+    .btn-1:hover{
+        cursor: pointer;
+        background-color: #57634D;
+        border : 3px dashed #FFFFFF solid;
+        color:white ;
+    }
+
+    .btn-2{
+        width: 341px;
+        height: 64px;
+        background-color: #57634D;
+        border: 2px dashed #FFFFFF;
+        border-radius: 20px;
+        text-align: center;
+        margin-left: 970px;
+        margin-top: -63px;
+    }
+
+    .btn-2 p{
+        width: 341px;
+        height: 29px;
+        margin-top: 10px;
+        font-size: 24px;
+        color: #FFFFFF;
+        font-weight: 700;
+    
+    }
+
+    .btn-2:hover{
+        cursor: pointer;
+        background-color: transparent;
+        border : 3px dashed #FFFFFF solid;
+        color:white ;
+    }
+
+    .about-us{
+        width: 100%;
+        height: 1048px;
+        background-color: #57634D;
+        margin-top: 190px;
+        border-radius: 74px;
+    }
+
+
+
+
+
+
